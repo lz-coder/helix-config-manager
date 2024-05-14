@@ -1,4 +1,4 @@
-
+#!/bin/env python3
 # Helix Config Manager - Simple Tool to manage your helix configs
 #    Copyright (C) 2024  lz-coder
 #
@@ -12,7 +12,6 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #    GNU General Public License for more details.
 
-#!/bin/python
 import argparse
 import os
 import tomllib
